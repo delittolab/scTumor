@@ -1,6 +1,10 @@
 # scTumor
 Single-cell tumor atlas with cancer dependency prediction
 
+Admin:
+Rosyli F. Reveron-Thornton MD
+James P. Agolia MD
+
 Contact:
 Daniel Delitto MD PhD
 delitto@stanford.edu
